@@ -1,0 +1,4 @@
+sonar.projectName=sononode10426
+sonar.projectKey=sononode10426
+sonar.Sources= .
+sonar.sourceEndcoding= UTF-8
